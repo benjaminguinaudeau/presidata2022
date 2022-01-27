@@ -17,11 +17,12 @@ Manifestos are provided in one text-file.
 Each line represents one sentence. 
 Titles are marked by an initial flag `TITLE-`.
 
-Following manifestos are available in the folder [`data`](https://github.com/benjaminguinaudeau/presidata2022/manifesto/data): 
+Following manifestos are available in the folder [`data`](https://github.com/benjaminguinaudeau/presidata2022/tree/master/manifesto/data): 
 
 | Parti | Candidat  | Source | 
 | -- | ------------- | ------------- |
-| EELV | Yannick Jadot  | [Lien](dddd)  |
-| La France insoumise | Jean-Luc Mélenchon   | Non disponnible publiquement  |
-| Les Républicains | Valérie Pécresse   | [Lien](dddd)  |
-| Parti Communiste Français | Fabien Roussel   | [Lien](dddd)  |
+| EELV | Yannick Jadot  | [Lien](https://www.eelv.fr/files/2021/10/Projet-2022-11.07.21-NP-1.pdf)  |
+| La France insoumise | Jean-Luc Mélenchon   | Programme non libre d'accès  |
+| Les Républicains | Valérie Pécresse   | [Lien](https://www.valeriepecresse.fr/mon-projet/)  |
+| Parti Socialiste | Anne Hidalgo   | [Lien](https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/208/attachments/original/1642600770/AH_PROGRAMME_A4_V6_Sommaire_.pdf)  |
+| Parti Communiste Français | Fabien Roussel   | [Lien](https://d3n8a8pro7vhmx.cloudfront.net/pcf/pages/3003/attachments/original/1621955637/document_programme.pdf)  |

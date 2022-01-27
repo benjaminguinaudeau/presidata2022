@@ -22,5 +22,5 @@ media.
 ## Manifestos
 
 The folder
-[manifesto](https://github.com/benjaminguinaudeau/presidata2022/manifesto)
+[manifesto](https://github.com/benjaminguinaudeau/presidata2022/tree/master/manifesto)
 contains the text manifestos of the most important candidates.

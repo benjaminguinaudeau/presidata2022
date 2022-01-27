@@ -25,4 +25,4 @@ This repository lists websites or other repository, which provide raw data or da
 
 ## Manifestos
 
-The folder [manifesto](https://github.com/benjaminguinaudeau/presidata2022/manifesto) contains the text manifestos of the most important candidates. 
+The folder [manifesto](https://github.com/benjaminguinaudeau/presidata2022/tree/master/manifesto) contains the text manifestos of the most important candidates. 
