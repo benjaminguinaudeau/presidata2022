@@ -6,21 +6,23 @@
 This repository lists websites or other repository, which provide raw
 data or data analysis related to the 2022 French presidential elections.
 
-## Polls
+## Data Sources
 
-[NSPPolls](https://github.com/nsppolls/nsppolls) collects all published
-polls.
+### Polls
 
-## Speaking time of candidates
+[`NSPPolls`](https://github.com/nsppolls/nsppolls) collects all
+published polls.
 
-[csatimer](https://github.com/benjaminguinaudeau/csatimer) proposes a
+### Speaking time of candidates
+
+[`csatimer`](https://github.com/benjaminguinaudeau/csatimer) proposes a
 machine-readable version of the data published by the
 [csa](https://www.csa.fr/csapluralisme/tableau). It contains data on how
 much each candidat and its support spoke in the main national French
 media.
 
-## Manifestos
+### Manifestos
 
 The folder
-[manifesto](https://github.com/benjaminguinaudeau/presidata2022/tree/master/manifesto)
-contains the text manifestos of the most important candidates.
+[`manifesto`](https://github.com/benjaminguinaudeau/presidata2022/tree/master/manifesto)
+contains the manifestos of the most important candidates.
