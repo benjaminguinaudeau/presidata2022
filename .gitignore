@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 twitter/*
+twitter/tmp/*
 parrainage/*
